@@ -1,0 +1,17 @@
+{
+  "name": "responsive_ex",
+  "version": "1.0.0",
+  "description": "Responsive excercise by Udacity Front-End Nanodegree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Dor Bar",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.2"
+  }
+}
